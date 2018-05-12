@@ -1,0 +1,29 @@
+_repo: '----_25368'
+_version: 0.1.0
+alternative_title: Xi Jing Za Ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ge, Hong
+    alias: 葛洪
+    birthdate: 284
+    deathdate: 364
+    gutenberg_agent_id: '31284'
+    url: http://www.gutenberg.org/2009/agents/31284
+    wikipedia: http://zh.wikipedia.org/wiki/%E8%91%9B%E6%B4%AA
+description: ''
+gutenberg_issued: '2008-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25368'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- Han dynasty, 202 B.C.-220 A.D. -- Anecdotes'
+- !lcc 'DS'
+title: 西京雜記
+url: http://www.gutenberg.org/ebooks/25368
